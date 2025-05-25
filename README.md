@@ -12,7 +12,10 @@
 Some of my older projects can be found on GitHub.
 
 ##### Frequented Programming Languages
-Lua, C++, C, C#, Java, SQL (MySQL, MsSQL)
+GLua, Lua, C++, C, C#, Java, SQL (MySQL, MsSQL)
 
 ##### Less-Frequented or Eschew
 VB, Javascript, PHP, HTML, CSS
+
+Taking commissions for GLUA!
+Contact me here on discord: onyaaa_1
