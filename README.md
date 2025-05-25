@@ -1,1 +1,18 @@
-# readme
+<h1 align="center">
+  Hello visitor! 👋
+</h1>
+<h3 align="center">
+  💻 Software Development & More | 🌴 Europe
+</h3>
+
+## About Me
+
+- 👨‍💻 Been programming for over 20+ years!
+
+Some of my older projects can be found on GitHub.
+
+##### Frequented Programming Languages
+Lua, C++, C, C#, Java, SQL (MySQL, MsSQL)
+
+##### Less-Frequented or Eschew
+VB, Javascript, PHP, HTML, CSS
